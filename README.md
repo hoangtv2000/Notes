@@ -1,5 +1,7 @@
 # Notes
 
+https://github.com/hqucv/siamrn/blob/448080eeee90200d1aef2af20cf6f02a12917d5f/siamban/tracker/siamban_tracker.py#L17
+
 https://arxiv.org/pdf/2105.03817.pdf
 
 https://arxiv.org/abs/2003.06761
