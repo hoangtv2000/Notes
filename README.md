@@ -6,3 +6,5 @@
 [CityPersons](https://www.kaggle.com/datasets/hakurei/citypersons)
 
 [VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit)
+
+[WAYMO 2D Object Detection dataset](https://waymo.com/open/)
