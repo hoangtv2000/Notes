@@ -4,3 +4,5 @@
 [WIDER Face & Person Challenge 2019 - Track 2: Pedestrian Detection test](https://drive.google.com/open?id=1DizcfApk5TN85iSR7qljwxCa2qsb3-7f)
 
 [CityPersons](https://www.kaggle.com/datasets/hakurei/citypersons)
+
+[VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit)
